@@ -1,0 +1,8 @@
+Hello There,
+
+This is a letter to the best programmer in the world. I wanted to tell you to keep going and practising C!
+
+Best,
+The second best programmer in the world. 
+
+xox
