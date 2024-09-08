@@ -21,7 +21,7 @@ endif
 # Build target
 all: $(TARGET)
 	@echo "Build complete. Running executable..."
-	@./$(TARGET)
+	@./$(TARGET) myFile.txt
 
 # Build rule
 $(TARGET): $(SRC)
